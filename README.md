@@ -1,4 +1,4 @@
-# 🦷 DeepDent (Mark 2) – AI-Powered Dental Imaging Toolkit
+# 🦷 DeepDent - AI-Powered Dental Imaging Toolkit
 
 > 🚧 **Status:** Currently under development. This is a work-in-progress research and engineering project.
 
