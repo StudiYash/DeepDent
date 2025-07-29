@@ -1,4 +1,4 @@
-# 🦷 DeepDent - AI-Powered Dental Imaging Toolkit
+# 🦷 DeepDent – AI-Powered Dental Imaging Toolkit
 
 > 🚧 **Status:** Currently under development. This is a work-in-progress research and engineering project.
 
@@ -46,6 +46,12 @@ Designed for dental clinics, labs, and research use cases where offline, explain
 ## 🔒 Disclaimer
 
 This project is currently in development and **not intended for clinical deployment or diagnostic use**. All components are research-grade only.
+
+---
+
+## 📜 Legal Notice
+
+Due to an active legal contract and research collaboration agreement, key architectural, dataset, and clinical implementation details cannot be publicly disclosed until the project is completed and cleared for release. Please refer only to public commits and abstract-level summaries.
 
 ---
 
